@@ -1,0 +1,24 @@
+{
+  "name": "backend_sereies",
+  "version": "1.0.0",
+  "description": "backend project",
+  "keywords": [
+    "javasript",
+    "backend"
+  ],
+  "homepage": "https://github.com/student-nirajkumar/Let-s-Start_Backend#readme",
+  "bugs": {
+    "url": "https://github.com/student-nirajkumar/Let-s-Start_Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/student-nirajkumar/Let-s-Start_Backend.git"
+  },
+  "license": "ISC",
+  "author": "Niraj Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
